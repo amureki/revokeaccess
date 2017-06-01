@@ -1,0 +1,1 @@
+cold and empty space
