@@ -1,7 +1,7 @@
-# Revoke third-party access
-
 Please, be sure to revoke unused third-party services access to your social accounts. 
+
 Here is a list of popular services, which you should check:
+
 - [Google](https://myaccount.google.com/permissions)
 - [Facebook](https://www.facebook.com/settings/?tab=applications)
 - [Twitter](https://twitter.com/settings/applications)
