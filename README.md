@@ -8,3 +8,4 @@ Here is a list of popular services, which you should check:
 - [Instagram](https://www.instagram.com/accounts/manage_access/)
 - [Dropbox](https://www.dropbox.com/account/security)
 - [Linkedin](https://www.linkedin.com/psettings/third-party-applications)
+- [Spotify](https://www.spotify.com/account/apps/)
