@@ -2,7 +2,7 @@
 
 Please, be sure to revoke unused third-party services access to your social accounts. 
 
-Here is a list of popular services, which you should check:
+Here is a list of popular services, which you might want to check:
 
 - [Google](https://myaccount.google.com/permissions)
 - [Facebook](https://www.facebook.com/settings/?tab=applications)
